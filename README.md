@@ -1,4 +1,4 @@
-Let's start here, a 1 day itinerary for the city that you're in:
+I want to build a 1 day itinerary for the city that you're in:
 You give me...
   1. The address of your hotel
   2. How much time you have
@@ -13,5 +13,3 @@ Future additions
   1. What do you like to do? I can take that into account
   2. Multiple days
   3. Travel options
-  
-But let's start here. 
